@@ -1,0 +1,4 @@
+1. stdio.h
+    * int main()
+    * printf()
+    * puts()
